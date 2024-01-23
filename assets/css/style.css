@@ -16,3 +16,19 @@ body {
 .fa-stack .fab {
     color: #052937
 }
+
+.row .page-item .page-link {
+    background-color: #4ff3d0;
+    color: #052937;
+    border: unset;
+    border-radius: 5rem;
+}
+
+.row .page-item .page-link:hover {
+    border: unset;
+    border-radius: 5rem;
+}
+
+img {
+    margin-bottom: 2rem;
+}
