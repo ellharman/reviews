@@ -509,8 +509,11 @@ footer .footer-custom-content {
   color: #808080;
   font-size: 1.125rem;
   font-style: italic;
-  /* margin: 0 0 0.625rem; */
   font-family: 'Lora', 'Times New Roman', serif;
+}
+
+.post-preview .post-meta {
+  margin: 0 0 0.625rem;
 }
 
 .post-heading .post-meta {
