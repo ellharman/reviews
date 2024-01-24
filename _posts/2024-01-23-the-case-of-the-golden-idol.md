@@ -6,7 +6,7 @@ categories: ["video game"]
 image: ../assets/img/the-case-of-the-golden-idol.png
 ---
 ![Cover art for The Case of the Golden Idol]({{page.image}})
-**I distinctly** remember, as a young tastemaker (annoying teenager), taking the piss out of my friend for the heinous crime of 'being into point and click games' - the likes of Grim Fandango and Sam & Max. Little did I know that at the ripe old age of 27 I would be spending the most part of a weekend playing, to be excessively reductive, click-and-drag Cluedo in the form of *The Case of the Golden Idol* from Color Gray Games, and having a blast.
+**I distinctly** remember, as a young interactive media connoisseur (annoying teenager), taking the piss out of my friend for the heinous crime of 'being into point and click games' - the likes of Grim Fandango and Sam & Max. Little did I know that at the ripe old age of 27 I would be spending the most part of a weekend playing, to be excessively reductive, click-and-drag Cluedo in the form of *The Case of the Golden Idol* from Color Gray Games, and having a blast.
 
 Set in the late 18th century, we are told the story of a series of *unfortunate* deaths in the form of grotesquely detailed pixel art dioramas. Each of these tableaus has something to do with the pursuit of the titular golden idol, and the lengths the characters we follow throughout the story will go to to to get hold of it and the power it contains; the player is left to piece together what happened by dragging words they find in the scene into mental 'scrolls' representing our idea of what happened.
 
