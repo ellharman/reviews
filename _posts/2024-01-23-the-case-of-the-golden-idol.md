@@ -2,7 +2,7 @@
 layout: post
 title: "Review: The Case of the Golden Idol"
 description: A description
-categories: ["video game"]
+categories: ["review", "video game"]
 image: ../assets/img/the-case-of-the-golden-idol.png
 ---
 ![Cover art for The Case of the Golden Idol]({{page.image}})
@@ -14,4 +14,4 @@ The game does an outstanding job of making you feel like a detective. With a rem
 
 Color Gray Games really stick the landing too, with everything being wrapped up nicely after the game's 12 levels, with an epilogue where you yourself summarise everything that went down. All in all, a stand-out experience that didn't overstay its welcome.
 
-## Rating: 8.5/10
+## Rating: 9/10
