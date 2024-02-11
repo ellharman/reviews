@@ -12,4 +12,4 @@ Despite my best efforts to keep at this and see what the fuss was about, after a
 
 In the pros column, this is probably the best integration of meaningful story decisions into gameplay that I have seen in video games, and the voice acting is extremely well utilised - characters talk over each other in a very natural way, and the player is sporadically presented with choices relating to the passive banter of the other Guardians which leaves you feeling like an equal member of the crew rather than a bland insert. Ultimately, this game was fine but I don't think I can see myself returning to it any time soon; potentially if I was more into Marvel as a whole that would have sustained me through the lackluster combat, but I think this one maybe just isn't for me.
 
-## Rating: 5.5/10
+## Rating: 5/10
