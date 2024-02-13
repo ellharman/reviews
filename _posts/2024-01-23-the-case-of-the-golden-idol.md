@@ -15,3 +15,7 @@ The game does an outstanding job of making you feel like a detective. With a rem
 Color Gray Games really stick the landing too, with everything being wrapped up nicely after the game's 12 levels, with an epilogue where you yourself summarise everything that went down. All in all, a stand-out experience that didn't overstay its welcome.
 
 ## Rating: 9/10
+
+Edit: 13/02/24
+
+Went back and played both the DLC for this over the last couple of days. I kind of wish that I had just gone straight on to them after finishing the main game, as it pretty much took me until the last scenario to properly get my brain back into gear for how to solve this particular type of puzzle and it was a bit overwhelming, since the scenarios were about as hard as the late stages of the mainline story. I still enjoyed playing them a lot though, especially since the DLC does a good job of explaining the lead-up to the events of the main game, and with lots of tangential world-building on the side. No change to the rating, still a great game! Can't wait for the next entry [The Rise of the Golden Idol](https://store.steampowered.com/app/2716400/The_Rise_of_the_Golden_Idol).
